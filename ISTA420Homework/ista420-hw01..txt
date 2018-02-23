@@ -1,0 +1,19 @@
+1. a database structured to recognize relations among stored items of information. a Piece of software like SQL
+
+2. where transactions relating to payroll processing, position management, time and attendance, recruitment, benefits, and other human resources data collection protocols are recorded (a collection of data)
+
+3. a basic constraint of database relational model. 
+
+4. is a relational database concept, which states that table relationships must always be consistent.
+
+5. A table
+
+6. 
+
+7.
+
+8.
+
+9. Online Transactional Processing The primary focus of an Online Transactional Processing is data entry.
+
+10. A container of objects and others. consists of one or more fact tables referencing any number of dimension tables.
