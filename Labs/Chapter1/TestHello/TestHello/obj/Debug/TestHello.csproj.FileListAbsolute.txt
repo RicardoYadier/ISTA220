@@ -1,0 +1,7 @@
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\TestHello\TestHello\obj\Debug\TestHello.pdb
