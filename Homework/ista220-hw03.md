@@ -1,3 +1,12 @@
+## RIcardo Rosa
+
+###ISTA220 Homework 3
+
+#### C# 
+
+
+
+
 1. A named block of code.
 
 2. a return statement returns control to the calling method. It can also return an optional value.

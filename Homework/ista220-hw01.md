@@ -1,10 +1,17 @@
-1. An application that runsin a command prompt window instead of providing a graphical user interface.
+## Ricardo Rosa
+
+### ISTA220 Homework 1
+
+#### C# 
+
+
+1. An application that runs in a command prompt window instead of providing a graphical user interface.
 
 2. The Main method designates the programs entry point. Must be spelledwith an uppercase M.
 
 3. Creates a container for items such as classes, helping solve a problem. Frees you from having to fully qualify the names of classes in you code.
 
-4. Provides a covinient syntax that ensures the correct use of IDsiposable objects.
+4. Provides a convenient syntax that ensures the correct use of IDsiposable objects.
 
 5. Is a file that usually has the .dll file name extension, although strictly speaking executable programs with the .exe file name extension are also assemblies. a Block pf compile codes.
 

@@ -1,4 +1,15 @@
-1. A local variable is a variable that's scope is contained throughout the entire block where the decleration occured.
+## Ricardo Rosa
+
+### ISTA220 Homework 2
+
+#### C# 
+
+
+
+
+
+
+1. A local variable is a variable that's scope is contained throughout the entire block where the decleration occurred.
 
 2. Statements call methods, assign or declare variables, or branch to another block of code depending on the given condition. 
 

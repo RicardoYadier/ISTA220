@@ -1,7 +1,15 @@
+## Ricardo Rosa
+
+### ISTA220 Homework 5
+
+#### C# 
+
+
+
 1.These operators perform the indicated operation on the two operands, and then assign the resulting value to the variable, property, or indexer element given by the left operand.
 Updates the value of a Variable.
 
-2. *= /= %= += -=
+2.These	 *= /= %= += -=
 
 3.
 
@@ -9,7 +17,7 @@ Updates the value of a Variable.
 
 5.Only the first statement that immediately follows the Boolean expression in the while construct will be executed as part of the loop, resulting in dificult to spot bugs.
 
-6. 3 Parts. You can omit any of the three parts. If you omitthe Boolean expression, it defaults to true, and the statement runs forever.
+6.Three Parts. You can omit any of the three parts. If you omitthe Boolean expression, it defaults to true, and the statement runs forever.
 
 7.Make it a do statement??? because its Boolean expression is evaluated after each iteration, so the body always executes at east once.
 
