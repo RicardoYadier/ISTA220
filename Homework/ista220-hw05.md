@@ -11,7 +11,8 @@ Updates the value of a Variable.
 
 2.These	 *= /= %= += -=
 
-3.
+3.while(number < 50) numer +=
+5;
 
 4.For as long as some condition is true.
 
