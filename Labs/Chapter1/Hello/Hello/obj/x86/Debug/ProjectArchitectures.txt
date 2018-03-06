@@ -1,1 +1,0 @@
-C:\Users\yadier\Documents\ISTA 220\Labs\Chapter1\Hello\Hello\Hello.csproj;x86
