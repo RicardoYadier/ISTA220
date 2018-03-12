@@ -10,18 +10,22 @@ namespace Classes
 {
     class Point
     {
+        private static int objectCount = 0;
         private int x, y;
 
-       public Point (int x, int y)
+       public Point ()
         {
-            this.x = x;
-            this.y = y;
+            this.x = -1;
+            this.y = -1;
+            objectCount++;
         }
-        public Point()
+        public Point(int x, int y)
         {
 
             this.x = -1;
             this.y = -1;
+            objectCount++;
+            
 
         }
         public double DistanceTo(Point other)
@@ -31,6 +35,8 @@ namespace Classes
             double distance = Math.Sqrt((xDiff * xDiff) + (yDiff * yDiff));
             return distance;
         }
+
+        public static int ObjectCount() => objectCount;
 
     }
 
