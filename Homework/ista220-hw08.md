@@ -19,8 +19,10 @@ An address to a location in memory
 
 ##### 3. How do you declare a value type?
 You declare a value type by labeling a variable with int, float, double, or char
+by assigning a data type.
 
 ##### 4. How do you declare a reference type?
+Create a new instance of the object.
 
 
 ##### 5. Does C# allow you to assign NULL to a value type?
