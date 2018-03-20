@@ -49,6 +49,7 @@ name the class and access it with the access operator
 
 ##### 8. Can you think of a good reason to create an anonymous class? What is it?
 when you want to keep the data private.
+when you dont want to name every variable you use.
 
 ##### 9. What is polymorphism as this term is used in computer science? This is not in the book.
 

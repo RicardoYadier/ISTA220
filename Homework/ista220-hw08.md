@@ -2,27 +2,21 @@
 
 ### ISTA220 Homework 8
 
-
 ### C# 
-
-
-
-
-
-
 
 ##### 1. What is the difference between deep copy and shallow copy?
 A deep copy contains copies of all the copied method's values. Shallow copies can contain reference types
+A shallow copy just copy the memory address.
 
 ##### 2. What is the value of a reference after you declare and initialize it?
 An address to a location in memory
 
 ##### 3. How do you declare a value type?
 You declare a value type by labeling a variable with int, float, double, or char
-by assigning a data type.
+by assigning a primitive data type.
 
 ##### 4. How do you declare a reference type?
-Create a new instance of the object.
+Create a new instance of the object. (Key word NEW)
 
 
 ##### 5. Does C# allow you to assign NULL to a value type?
